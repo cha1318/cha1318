@@ -1,4 +1,4 @@
-### Hi there 👋
+알파코 9기 👋
 
 <!--
 **cha1318/cha1318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
